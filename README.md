@@ -6,7 +6,7 @@
 
 # My Job Calendar
 
-* domain : https://myjobcalendar.duckdns.org/
+* domain : [https://myjobcalendar.duckdns.org/](https://myjobcalendar.netlify.app/)
 * team : 기획도 수준급
 * stacks
 <img width="520" alt="stacks" src="https://github.com/user-attachments/assets/d6ee5418-b18d-4348-a98f-4f17da6f6edf">
